@@ -1,0 +1,5 @@
+prod:
+  password: YOUR_API_KEY
+  theme_id: "YOUR_THEME_ID"
+  store: your-store-name.myshopify.com
+  directory: src

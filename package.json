@@ -1,0 +1,39 @@
+{
+    "name": "vue-js-example",
+    "version": "1.0.0",
+    "private": true,
+    "author": "Maxim Dyuzhinov",
+    "description": "A demo project to show how to integrate vue.js components to a Shopify theme",
+    "license": "MIT",
+    "scripts": {
+        "build": "webpack"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.5.5",
+        "@babel/plugin-proposal-class-properties": "^7.5.5",
+        "@babel/preset-env": "^7.5.5",
+        "@shopify/themekit": "^1.1.1",
+        "autoprefixer": "^9.6.1",
+        "babel-eslint": "^10.0.3",
+        "babel-loader": "^8.0.6",
+        "core-js": "^3.2.1",
+        "css-loader": "^3.2.0",
+        "cssnano": "^4.1.10",
+        "eslint": "^6.3.0",
+        "eslint-plugin-vue": "^5.2.3",
+        "file-loader": "^4.2.0",
+        "gulp": "^4.0.2",
+        "mini-css-extract-plugin": "^0.8.0",
+        "node-sass": "^4.12.0",
+        "optimize-css-assets-webpack-plugin": "^5.0.3",
+        "postcss-loader": "^3.0.0",
+        "sass-loader": "^7.1.0",
+        "url-loader": "^2.1.0",
+        "vue-loader": "^15.7.1",
+        "vue-template-compiler": "^2.6.10",
+        "webpack": "^4.39.1"
+    },
+    "dependencies": {
+        "vue": "^2.6.10"
+    }
+}
